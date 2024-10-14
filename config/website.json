@@ -1,13 +1,13 @@
 {
 	"base": {
-		"app_name": "FRE123",
+		"app_name": "秀儿资源库",
 		"web_host": "https://www.fre123.com",
 		"logo": "https://img.fre123.com/i/2023/11/25/65619e8022505.png"
 	},
 	"seo": {
-		"title": "FRE123 免费资源共享平台",
-		"description": "FRE123 专注于为您提供各种免费优质资源，包括影视资源、动漫番剧、软件工具等。无论您在寻找哪种资源，我们都将尽力为您提供，为您的学习或工作助力",
-		"keywords": "FRE123, 免费资源, 优质资源, 资源聚合, 在线资源, 影视资源, 动漫番剧, 软件工具, 网盘资源",
+		"title": "Xiuer 免费资源共享平台",
+		"description": "Xiuer 专注于为您提供各种免费优质资源，包括影视资源、动漫番剧、软件工具等。无论您在寻找哪种资源，我们都将尽力为您提供，为您的学习或工作助力",
+		"keywords": "Xiuer, 免费资源, 优质资源, 资源聚合, 在线资源, 影视资源, 动漫番剧, 软件工具, 网盘资源",
 		"icon": "https://img.fre123.com/i/2023/11/25/65619e791f166.ico"
 	},
 	"header": {
@@ -65,7 +65,7 @@
 				"icon_color": "#00b140",
 				"icon_hover_color": "#008733",
 				"text": "有兴趣加我进群聊聊",
-				"img": "https://img.fre123.com/i/2023/12/03/656c990d9fbb8.jpeg",
+				"img": "https://github.com/Xiuer-Xie/fre123-nav/blob/main/.files/images/%E4%BA%8C%E7%BB%B4%E7%A0%81.png",
 				"url": ""
 			},
 			{
@@ -73,7 +73,7 @@
 				"icon_size": 20,
 				"icon_color": "#0088cc",
 				"icon_hover_color": "#085b85",
-				"text": "关注老胡TG信息流频道",
+				"text": "关注秀儿信息流频道",
 				"img": "",
 				"url": "https://t.me/howie_weekly"
 			},
@@ -82,7 +82,7 @@
 				"icon_size": 20,
 				"icon_color": "#0088cc",
 				"icon_hover_color": "#085b85",
-				"text": "FRE123 期待您的建议反馈",
+				"text": "秀儿素材网 期待您的建议反馈",
 				"img": "",
 				"url": "https://txc.qq.com/products/617721"
 			}
